@@ -2,3 +2,6 @@ this is the first file
 
 
 add another thing in this
+
+
+adding the third thing to  check git push 

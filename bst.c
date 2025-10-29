@@ -13,6 +13,7 @@ struct bst
 void create(struct bst *root)
 {
     char ch;
+    printf("hello Commit");
     do
     {
         struct bst *temp = root;
@@ -318,3 +319,4 @@ int main()
 
     return 0;
 }
+
